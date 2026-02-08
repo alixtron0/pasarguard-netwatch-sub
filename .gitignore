@@ -1,0 +1,39 @@
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.backup
+*.backup-*
+*.bak
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Logs
+*.log
+logs/
+
+# Environment files (if any)
+.env
+.env.local
+.env.*.local
+
+# Node modules (if you add any build tools later)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build output (if applicable)
+dist/
+build/
