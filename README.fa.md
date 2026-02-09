@@ -150,7 +150,7 @@ nano /var/lib/pasarguard/templates/sub.html
 ## 🙏 قدردانی
 
 - الهام‌گرفته از زیبایی‌شناسی Cyberpunk 2077
-- ساخته‌شده برای پنل VPN [Pasarguard](https://github.com/pasarguard/pasarguard)
+- ساخته‌شده برای پنل VPN [Pasarguard](https://github.com/PasarGuard/panel)
 - استفاده از [QRCode.js](https://github.com/davidshimjs/qrcodejs) برای تولید QR
 
 ---

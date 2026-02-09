@@ -332,7 +332,7 @@ Formats datetime objects.
 ## 📚 Additional Resources
 
 - [Jinja2 Documentation](https://jinja.palletsprojects.com/)
-- [Pasarguard Documentation](https://github.com/pasarguard/pasarguard)
+- [Pasarguard Documentation](https://github.com/PasarGuard/panel)
 - [Template Filters Reference](https://jinja.palletsprojects.com/en/3.1.x/templates/#builtin-filters)
 
 ---

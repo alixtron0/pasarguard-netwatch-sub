@@ -150,7 +150,7 @@ Need help? Contact support:
 ## 🙏 Acknowledgments
 
 - Inspired by Cyberpunk 2077 aesthetic
-- Built for [Pasarguard](https://github.com/pasarguard/pasarguard) VPN panel
+- Built for [Pasarguard](https://github.com/PasarGuard/panel) VPN panel
 - Uses [QRCode.js](https://github.com/davidshimjs/qrcodejs) for QR generation
 
 ---

@@ -71,7 +71,7 @@ check_root() {
 check_pasarguard() {
     if ! command -v pasarguard &> /dev/null; then
         log_error "Pasarguard is not installed or not in PATH"
-        log_info "Please install Pasarguard first: https://github.com/pasarguard/pasarguard"
+        log_info "Please install Pasarguard first: https://github.com/PasarGuard/panel"
         exit 1
     fi
     log_success "Pasarguard found"
