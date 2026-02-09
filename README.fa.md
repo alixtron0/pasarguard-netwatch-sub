@@ -157,3 +157,9 @@ nano /var/lib/pasarguard/templates/sub.html
 
 **ساخته‌شده با 💙 برای جامعه Pasarguard**
 
+---
+
+## 📸 تصویر نمایشی
+
+![تصویر دمو Netwatch](images/demo.jpg)
+

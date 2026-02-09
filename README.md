@@ -156,3 +156,9 @@ Need help? Contact support:
 ---
 
 **Made with 💙 for the Pasarguard community**
+
+---
+
+## 📸 Demo Screenshot
+
+![Netwatch Demo](images/demo.jpg)
